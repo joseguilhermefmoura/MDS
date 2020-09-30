@@ -108,3 +108,35 @@ System requirements are services descriptions that that must be provided for the
 
 It is a quality that the software must presents.
 
+#### What are the levels and types of requirements?
+
+It can be functional or not functional.
+
+Functional: a functionality the software must has.
+
+Not functional: flexibility, portability, 
+maintainability.
+
+<hr>
+
+#### Requirements quality
+
+The requirements quality is a fundamental factor for the success of the software product to be built.
+
+Both traditional and agile methodologies aim for requirements quality. Although, the moment of verification of that quality can occur in different moments.
+
+- <b>Testable:</b> Is there any effective process in terms of cost vs benefits that shows if the product attends to the requirement?
+
+    The system must suports until 500 simultaneous accesses.
+    
+    The system must responds to any search in a time minor than 500ms.
+
+    The system must runs on 24/7.
+
+- <b>Correct:</b> the requirement contains all the necessary information, according to the client needs?
+
+- <b>Complete:</b> the specification contains all the significant and needed requirements, such as: functionality, performance, restrictions and external interfaces?
+
+- <b>Not ambiguous:</b> It must have only one interpretation (being clear to the client and to the developers).
+
+- <b>Consistent if:</b> there is no duplicity.
